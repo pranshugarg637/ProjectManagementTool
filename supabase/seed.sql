@@ -5,7 +5,7 @@
 --   Authentication → Users → "Add user" → "Create new user"
 --     owner@demo.app   / DemoPass123!   (tick "Auto Confirm User")
 --     member@demo.app  / DemoPass123!   (tick "Auto Confirm User")
---     viewer@demo.app  / DemoPass123!   (tick "Auto Confirm User")
+--     viewer@demo.app  / DemoPass123!   (tick "Auto Confirm User")  
 -- Then paste this file into SQL Editor → Run.
 --
 -- Safe to run again: it deletes the old "Website Launch" demo board first.
