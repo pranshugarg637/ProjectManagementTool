@@ -4,7 +4,7 @@ Trello-style project management with **boards, lists and cards**, smooth **drag-
 **realtime sync**, **role-based access (owner / member / viewer) enforced in the database**, and an
 **AI board summary** powered by Google Gemini.
 
-**Live demo:** `https://<your-app>.vercel.app` ← _replace after deploying_
+**Live demo:** https://project-management-tool-xi-ruby.vercel.app
 
 ![Screenshot of a Flowboard board](docs/screenshot.png)
 <!-- Screenshot of the demo board. Swap in a GIF of your deployed app if you like. -->
